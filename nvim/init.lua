@@ -1,0 +1,5 @@
+vim.notify = require('notify')
+require('base')
+require('highlights')
+require('keymappings')
+require('plugins')
