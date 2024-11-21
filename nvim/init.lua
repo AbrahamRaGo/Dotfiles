@@ -1,5 +1,2 @@
-vim.notify = require('notify')
-require('base')
-require('highlights')
-require('keymappings')
-require('plugins')
+require("abraham.core")
+require("abraham.lazy")
